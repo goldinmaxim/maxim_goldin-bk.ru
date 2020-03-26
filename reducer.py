@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import fileinput
 
 transactions_count = 0
